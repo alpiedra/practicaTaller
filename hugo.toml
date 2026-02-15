@@ -1,3 +1,20 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Página de ALicia'
+
+[menu]
+  [[menu.main]]
+    name = 'Inicio'
+    pageRef = '/'
+    weight = 10
+  
+  [[menu.main]]
+    name = 'Ejemplo'
+    pageRef = '/posts'
+    weight = 20
+  
+  [[menu.main]]
+    name = 'Página Alicia'
+    pageRef = '/about'
+    weight = 30
+  
