@@ -1,6 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Página de ALicia'
+title = 'Página de Alicia'
+theme = 'PaperMod'
 
 [menu]
   [[menu.main]]
@@ -9,12 +10,7 @@ title = 'Página de ALicia'
     weight = 10
   
   [[menu.main]]
-    name = 'Ejemplo'
-    pageRef = '/posts'
-    weight = 20
-  
-  [[menu.main]]
-    name = 'Página Alicia'
+    name = 'Alicia'
     pageRef = '/about'
     weight = 30
   

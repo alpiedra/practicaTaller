@@ -6,33 +6,17 @@ date = 2026-02-15
 
 draft = false
 
+theme = 'PaperMod'
+
 +++
 
 
 
-\## ¡Hola!
+¡Hola!
 
 
 
-Soy Alicia, estudiante en la Universidad de La Rioja.
+Eso es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.
 
 
-
-\### Ejemplo
-
-
-
-Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.
-
-\### Ejemplo
-
-
-
-Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.
-
-\### Ejemplo
-
-
-
-Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.
 
