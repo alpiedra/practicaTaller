@@ -1,7 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Página de Alicia'
-theme = 'PaperMod'
 
 [menu]
   [[menu.main]]

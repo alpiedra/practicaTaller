@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Página de Alicia</title>
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Página de Alicia</description>
-    <generator>Hugo -- 0.155.3</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,7 @@
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;ejemplo-de-una-página-web&#34;&gt;Ejemplo de una página web&lt;/h2&gt;
-&lt;p&gt;Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;ejemplo-de-una-página-web&#34;&gt;Ejemplo de una página web&lt;/h2&gt;&#xA;&lt;p&gt;Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

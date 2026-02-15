@@ -6,8 +6,6 @@ date = 2026-02-15
 
 draft = false
 
-theme = 'PaperMod'
-
 +++
 
 
@@ -17,6 +15,4 @@ theme = 'PaperMod'
 
 
 Eso es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.Esto es un ejemplo.
-
-
 
